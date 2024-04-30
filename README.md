@@ -2,11 +2,9 @@
 Conduct a comprehensive analysis of medical cost drivers to inform strategic insurance decision-making and predictive modeling. 
 This analysis seeks to identify the primary and contributing factors responsible for the current healthcare cost trajectory, thereby enabling more informed and optimized decision-making.
 We have developed a Graphical User Interface (GUI) application alongside a chatbot as integral components of the project.
-![image](https://github.com/Rubalkhehra/Medical_cost_analysis/assets/54534273/482bbf10-5525-4e4c-8c78-51f5c58140e7)
+
 
 The primary beneficiaries of this analysis will be insurance companies, healthcare providers, policymakers, regulators and patients who will be able to determine various factors to keep their medical cost down.
-![image](https://github.com/Rubalkhehra/Medical_cost_analysis/assets/54534273/5b3be264-a23f-43b7-a421-3b57db30608d)
-
 
 # GUI
 ![image](https://github.com/Rubalkhehra/Medical_cost_analysis/assets/54534273/c2f7c71c-22e3-41d6-afd0-8639f1c9d071)
